@@ -1,0 +1,5 @@
+﻿  Application.cpp
+c:\dev\youtube\opengl\opengl\opengl\src\application.cpp(161): warning C4101: 'ibo': unreferenced local variable
+  VertexArray.cpp
+  Generating Code...
+  OpenGL.vcxproj -> C:\dev\YouTube\OpenGL\OpenGL\Debug\OpenGL.exe
